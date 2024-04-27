@@ -33,7 +33,7 @@ apt update ; apt install git -y ; git clone git://github.com/Ign0r3dH4x0r/GenVir
 <p align="center">
 <a href="#"><img title="GenVirus" src="https://i.ibb.co/XVnybz9/IGV.png"></a>
 </p>
-#### Thanks @harshalbenake For Sploits :)
+#### Thanks @yanicshikokot For Sploits :)
 <br/>
 
 ### <<< If you copy , Then Give me The Credits >>>
