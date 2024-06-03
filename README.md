@@ -14,26 +14,5 @@
 <a href="https://github.com/sowmiksudo/GenVirus/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sowmiksudo/GenVirus?color=red&style=flat-square"></a>
 </p>
 
-## Installation :
-
-* `apt update`
-* `apt install git -y`
-* `git clone git://github.com/sowmiksudo/GenVirus.git`
-* `cd GenVirus`
-
-### > Run : `bash GenVirus.sh`
-
-## One Liner :
-```
-apt update ; apt install git -y ; git clone git://github.com/sowmiksdo/GenVirus.git ; cd GenVirus ; bash GenVirus.sh
-```
-##
-
-#### Screenshot
-<p align="center">
-<a href="#"><img title="GenVirus" src="https://i.ibb.co/XVnybz9/IGV.png"></a>
-</p>
-#### Thanks @harshalbenake For Sploits :)
-<br/>
-
-### <<< If you copy, Then Give me The Credits >>>
+## NOTICE!
+This repository has been moved to <a href="https://github.com/sowmiksudo/GenVirus>this account</a>. Please follow the link and commands on that page.
